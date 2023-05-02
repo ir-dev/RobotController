@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='EPuckTemplate',
     version='',
-    packages=['BasicEPuck', 'EPuckControllers'],
+    packages=['BasicEPuck', 'EPuckBehaviours', 'EPuckCapabilities', 'EPuckControllers'],
     url='',
     license='',
     author='hoch',
